@@ -168,9 +168,10 @@ footer {
 }
 
 .foot {
-  margin-top: 200px;
+  margin-top: 100px;
   justify-content: space-between;
   align-items: center;
+  padding: 30px 0 30px;
 }
 
 .left-foot {
@@ -179,4 +180,28 @@ footer {
 
 .right-foot {
   color: white;
+  height: 50px;
+}
+
+.left-foot h4 {
+  font-size: .9rem;
+  padding-bottom: 10px;
+  padding-left: 5px;
+}
+
+.left-foot ul li a{
+  font-size: .7rem;
+}
+
+.search {
+  font-size: .9rem;
+  padding-top: 10px;
+}
+
+.right-foot li {
+  padding-top: 10px;
+}
+
+.right-foot ul {
+font-size: .8rem;
 }
