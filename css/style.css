@@ -160,3 +160,23 @@ cursor: pointer;
   display: block;
   cursor: pointer;
 }
+
+/* footer */
+
+footer {
+  background-color: black;
+}
+
+.foot {
+  margin-top: 200px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-foot {
+  color: white;
+}
+
+.right-foot {
+  color: white;
+}
