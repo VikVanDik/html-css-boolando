@@ -30,7 +30,7 @@ header {
   padding: 15px 0;
   position: fixed;
   width: 100%;
-  box-shadow: 1px black;
+  box-shadow: 0px 5px 5px rgb(148, 148, 148);
 }
 
 .container ul li {
