@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-  max-width: 1000px;
+  max-width: 1200px;
   width: 80%;
   margin: 0 auto;
 }
@@ -60,18 +60,20 @@ header {
 
 .img {
   width: 100%;
+  height: auto;
 }
 
 
 .clothes {
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .product {
   position: relative;
-  width: 300px;
-  margin: 100px 10px 0;
+  width: calc(100% / 3.1);
+  margin-top: 100px;
+  min-width: 260px;
 }
 
 .heart {
@@ -133,7 +135,7 @@ header {
 }
 
 .imgb {
-  width: 300px;
+  width: 100%;
   position: absolute;
   top: 0;
   left: 0;
