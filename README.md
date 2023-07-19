@@ -1,17 +1,19 @@
 Title
 ===
-Copiamo il lavoro di ieri in una nuova repo, attenzione, non duplicate l’intera cartella, altrimenti copierete anche le impostazioni di git!
-Nel repo nuovo incolliamo solo index.html, css/style.css e cartella img/ con le immagini.
-**Descrizione**
-Riproduciamo il layout come da screenshot cercando di essere il più fedeli possibili.
-Partiamo dai blocchi colorati e solo quando tutto funziona passiamo al dettaglio, sezione per sezione.
-Creiamo delle classi riutilizzabili individuando gli elementi ricorrenti nel layout, capendo quindi come e cosa possiamo centralizzare per rendere il nostro codice il più possibile semplice, pulito e quindi mantenibile.
-**Consigli**
-Creiamo delle classi riutilizzabili individuando gli elementi ricorrenti nel layout, capendo quindi come e cosa possiamo centralizzare per rendere il nostro codice il più possibile semplice, pulito e quindi mantenibile.
-Non lavoriamo ancora sul responsive, quindi la nostra pagina non deve adattarsi a tutti i possibili viewport. Se comunque riusciamo almeno a lavorare già un po’ con unità relative senza però crearci nuove difficoltà, tanto meglio.
-Partite comunque sempre semplici, non focalizzandovi su parti/soluzioni complesse, semmai le affronterete in un secondo momento.
-Arrivate fino a dove riuscite e senza ansia. E’ un layout sungo ed è normale non riuscire a finirlo in un giorno.
-Se poi, ci riuscite e volete provare ad aggiungere le “onde” fatelo solo alla fine ed è considerato un BONUS ;-)
+nome repo: html-css-boolando
+Descrizione
+Ci ispiriamo al sito di Zalando per riprodurre il layout nello screenshot.
+Per ogni prodotto sono fornite 2 immagini: la prima sarà visualizzata all’apertura della pagina, la seconda sarà visualizzata al posto della prima, quando il cursore del mouse va in hover sulla card.
+Sono presenti anche un header in posizione fixed e un footer.
+Regole da usare
+Tutte le regole che abbiamo visto fino ad oggi.
+Servirà qualche posizionamento particolare? Ai posteri l’ardua sentenza!
+Consigli:
+Analizzate prima il layout solo con i commenti, poi passate ai blocchi colorati.
+Solo se i blocchi colorati funzionano passiamo al particolare...
+Bonus
+1 - All’hover sul cuoricino, questo diventa rosso
+2 - ridimensionando la finestra le card si rimpiccioliscono fino a quando non wrappano
 Buon lavoro!
 
 V.
